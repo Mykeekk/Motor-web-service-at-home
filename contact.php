@@ -66,7 +66,7 @@
                                 <div class="contact-icon fa fa-phone"></div>
                                 <div class="information-description">
                                     <h4 class="description-heading">Phone</h4>
-                                    <div class="description-text">+84123456789</div>
+                                    <div class="description-text">+84941496314</div>
                                 </div>
 
                             </div>
@@ -74,7 +74,7 @@
                                 <div class="contact-icon fa fa-envelope"></div>
                                 <div class="information-description">
                                     <h4 class="description-heading">Email</h4>
-                                    <div class="description-text">thaiallb63@gmail.com</div>
+                                    <div class="description-text">longnguyenhong@gmail.com</div>
                                 </div>
 
                             </div>
